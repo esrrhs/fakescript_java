@@ -154,7 +154,7 @@
                     <plugin>
                         <groupId>com.github.spotbugs</groupId>
                         <artifactId>spotbugs-maven-plugin</artifactId>
-                        <version>4.8.6.4</version>
+                        <version>4.10.4.1</version>
                         <configuration>
                             <failOnError>false</failOnError>
                             <excludeFilterFile>${project.basedir}/spotbugs-exclude.xml</excludeFilterFile>
